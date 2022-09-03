@@ -1,1 +1,1 @@
-who am i
+chmod +111 hello
