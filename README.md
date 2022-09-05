@@ -1,1 +1,1 @@
-chmod +111 hello
+Hello world
